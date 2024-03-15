@@ -1,0 +1,5 @@
+Language you are using:  PHP
+Runtime Complexity of your solution: O(n)
+Space Complexity of your solution: O(1);
+
+n is the length of the string.
